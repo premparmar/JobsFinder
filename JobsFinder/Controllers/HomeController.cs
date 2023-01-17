@@ -9,7 +9,7 @@ namespace JobsFinder.Controllers
     public class HomeController : Controller
     {
         //
-        // GET: /Home/prem
+        // GET: /Home/
 
         public ActionResult Index()
         {
